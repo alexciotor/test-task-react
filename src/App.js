@@ -15,9 +15,17 @@ function App() {
     <section className='main-section' >
     <div className="left-menu">
     <ul className="ul-list">
-    <li className="menu-item"><ImMenu/>
- 
+
+    <li className="menu-item">
+    
+    <div className="menu-grid-item">
+    <div className="grid one"></div>
+    <div className="grid two"></div>
+    <div className="grid three"></div>
+    <div className="grid four"></div>
+    </div>
     </li>
+ 
     <li className="menu-item"><HiClipboardList/></li>
     <li className="menu-item"><FaUsers/></li>
     </ul>
