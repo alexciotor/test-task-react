@@ -101,15 +101,7 @@
   list-style-type: none;
 }
 .nav-li-item {
-  color: #cbb1a2;
-  padding-top: 35px;
-  width: 109px;
-  text-transform: capitalize;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 29px;
-  font-weight: bold;
-  text-align: center;
+
 }
 .underline {
   margin: auto;
@@ -310,6 +302,8 @@ img {
     }
   }
   .nav-list {
+    text-align: center;
+   
     width: 100%;
   }
   .nav-li-item {
